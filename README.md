@@ -1,4 +1,4 @@
-# Project: Predicting Boston Housing Prices
+# Project: Creating Customer Segments
 ## My 3rd Project in the Machine Learning Engineer Nanodegree at [Udacity](https://www.udacity.com/)
 
 ### Link to the Udacity project repository
@@ -13,6 +13,7 @@ In this project I applied unsupervised learning techniques on product spending d
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
