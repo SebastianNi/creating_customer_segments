@@ -3,7 +3,7 @@
 
 ### Link to the Udacity project repository
 
-https://github.com/udacity/machine-learning/tree/master/projects/boston_housing
+https://github.com/udacity/machine-learning/tree/master/projects/customer_segments
 
 ### Project Overview
 In this project I applied unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
